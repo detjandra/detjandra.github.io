@@ -57,8 +57,11 @@ section#downloads {
   background-size: 941px 171px;
 }
 
-section#downloads a {
-  display: none;
+div.no-downloads {
+  height: 171px;
+  width: 941px;
+  background: transparent url(../images/shield.png) center 0 no-repeat;
+  background-size: 941px 171px;
 }
 
 @media screen and (max-height: 450px) {
