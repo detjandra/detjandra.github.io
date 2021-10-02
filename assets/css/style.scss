@@ -66,10 +66,10 @@ div#no-downloads {
 div#no-downloads span.inner {
   display: block;
   position: relative;
-  height: 350px;
+  height: 250px;
   width: 1000px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-  background-size: 1000px 350px;
+  background-size: 1000px 250px;
 }
 
 @media screen and (max-height: 450px) {
