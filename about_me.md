@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: https://detjandra.github.io/about_me
+permalink: /about_me/
 ---
 
 test text
