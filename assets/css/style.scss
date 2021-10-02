@@ -60,7 +60,16 @@ div#no-downloads {
   margin: -80px auto -150px;
   z-index: 1;
   background: transparent url(../images/bg-ramp.jpg) center 171px no-repeat;
-  background-size: 941px 31px;
+  background-size: 941px 197px;
+}
+
+div#no-downloads span.inner {
+  display: block;
+  position: relative;
+  height: 197px;
+  width: 941px;
+  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
+  background-size: 941px 197px;
 }
 
 @media screen and (max-height: 450px) {
