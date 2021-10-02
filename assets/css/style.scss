@@ -53,9 +53,12 @@ footer {
 section#downloads {
   height: 171px;
   width: 941px;
-  margin: 51px auto -250px;
   background: transparent url(../images/shield.png) center 0 no-repeat;
   background-size: 941px 171px;
+}
+
+section#downloads a {
+  display: none;
 }
 
 @media screen and (max-height: 450px) {
