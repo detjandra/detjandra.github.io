@@ -49,6 +49,13 @@ footer {
   background: none;
 }
 
+section#downloads {
+  height: 171px;
+  width: 941px;
+  margin: 51px auto -250px;
+  background: transparent url(../images/shield.png) center 0 no-repeat;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
