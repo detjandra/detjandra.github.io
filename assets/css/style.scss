@@ -28,7 +28,7 @@
 }
 
 div.shell {
-  width: 1000px;
+  width: 1300px;
 }
 
 header {
@@ -55,7 +55,7 @@ div#no-downloads {
   position: relative;
   display: block;
   height: 197px;
-  width: 100px;
+  width: 1000px;
   padding-bottom: 150px;
   margin: -80px auto -150px;
   z-index: 1;
@@ -69,7 +69,7 @@ div#no-downloads span.inner {
   height: 197px;
   width: 100px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-  background-size: 100px 197px;
+  background-size: 1000px 197px;
 }
 
 @media screen and (max-height: 450px) {
