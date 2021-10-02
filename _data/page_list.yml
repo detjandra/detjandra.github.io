@@ -1,0 +1,11 @@
+pages_list_title: Navigation
+pages:
+
+- title: Home
+  url: index.markdown
+
+- title: About Me
+  url: about_me.md
+
+- title: Test
+  url: test.html
