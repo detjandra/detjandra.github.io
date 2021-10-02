@@ -5,4 +5,11 @@
 layout: default
 ---
 
+<h1>{{ site.data.pages_list.pages_list_title }}</h1>
+<ul>
+  {% for item in site.data.pages_list.pages %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
+      
 test text
