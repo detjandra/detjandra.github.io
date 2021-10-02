@@ -54,14 +54,14 @@
 
       <span class="banner-fix"></span>
 
+      <!-- The sidebar -->
+      <div class="sidebar">
+        <a class="active" href="https://detjandra.github.io/">Home</a>
+        <a href="https://detjandra.github.io/about_me">About me</a>
+        <a href="https://detjandra.github.io/test">Test</a>
+      </div>
 
       <section id="main_content">
-        <h1>{{ site.data.pages_list.pages_list_title }}</h1>
-        <ul>
-          {% for item in site.data.pages_list.pages %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
         {{ content }}
       </section>
 
