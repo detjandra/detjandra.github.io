@@ -44,6 +44,11 @@ span.banner-fix {
   top: 20px;
 }
 
+footer {
+  max-width:100px;
+  background: none;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
