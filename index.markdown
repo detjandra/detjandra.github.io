@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Introduction
-Hello! My name is Donna Tjandra. I am a PhD student studying computer science at the University of Michigan, and I am advised by Professor Jenna Wiens. My research lies at the intersection of machine learning and healthcare, where I help to develop tools to overcome the challenges faced by clinicians in everyday practice. Broadly, my interests lie in improving approaches in technical topics such as survival analysis and noisy label learning in the context of real-world clinical problems such as predicting the onset of Alzheimer's disease and sepsis.
+Hello! My name is Donna. I am a PhD student studying computer science at the University of Michigan, and I am advised by Professor Jenna Wiens. My research lies at the intersection of machine learning and healthcare, where I help to develop tools to overcome the challenges faced by clinicians in everyday practice. Broadly, my interests lie in improving approaches in technical topics such as survival analysis and noisy label learning in the context of real-world clinical problems such as predicting the onset of Alzheimer's disease and sepsis.
 
 # Background
 - 2013-2018: Attended the University of Toronto, graduating with a Bachelor's of Science in molecular genetics and computer science
