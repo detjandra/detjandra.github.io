@@ -11,7 +11,7 @@ During both my undergradute and graduate careers, I have had the opportunity to 
 - 2018: Teaching assistant for "Introduction to the Theory of Computer Science" (CSC 236) at the University of Toronto
 
 # Outreach
-I have also been fortunate to have the opportunity to serve the community through outreach activities (listed below). I enjoy participating in a variety of activities, though I mainly focus on encouraging under-represented minoritites to participate in computer science-related activities and advising current students.
+I have also been fortunate to have the opportunity to serve the community through outreach activities (listed below). I enjoy participating in a variety of activities, though I mainly focus on encouraging under-represented minoritites to participate in computing activities and advising current students.
 
 - 2021: Served as an “Onboarding Buddy” for new graduate students
 - 2021: Assisted in facilitating F.E.M.M.E.S explore (an event that encourages gender minorities to participate in computing)
