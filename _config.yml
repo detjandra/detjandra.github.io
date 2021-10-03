@@ -21,7 +21,7 @@
 title: Personal Website for Donna Tjandra
 email: dotjandr@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Feel free to reach out at dotjandr@umich.edu
+  Feel free to reach out at dotjandr@umich.edu,
   I am also on Github at detjandra
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
