@@ -11,7 +11,7 @@ Hello! My name is Donna Tjandra. I am a PhD student studying computer science at
 # Background
 - 2013-2018: Attended the University of Toronto, graduating with a Bachelor's of Science in molecular genetics and computer science
 - 2018-present: Pursuing a doctoral degree in computer science at the University of Michigan
-  - 2020: Master's of Science of computer science 
+  - 2020: Master's of Science in computer science 
 
 # Publications 
 - Tjandra D., He Y., Wiens J. A Hierarchical Approach to Multi-Event Survival Analysis. In Proceedings of the AAAI Conference on Artificial Intelligence 2021 May 18 (Vol. 35, No. 1, pp. 591-599)
