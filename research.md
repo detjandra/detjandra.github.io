@@ -6,7 +6,7 @@ permalink: /research/
 
 # Highlights
 
-\
+
 
 ## Hierarchical Survival Analysis
 
