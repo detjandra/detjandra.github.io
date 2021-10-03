@@ -6,6 +6,8 @@ permalink: /research/
 
 # Highlights
 
+\
+
 ## Hierarchical Survival Analysis
 
 In "A Hierarchical Approach to Multi-Event Survival Analysis" (AAAI, 2021), my co-authors and I approach the task of predicting how the probabiltiy of an individual experiencing multiple events changes over time. More specifically, for each event, we aim to generate a survival curve. A survival curve plots an individual's probability of survival (i.e., not experiencing the event) at various time points in the future, relative to when the prediction was made. However, the task of generating these curves holds many challenges. First, events are often dependent on one another (e.g., given the events of Alzheimer's disease onset and mortality, an individual who is more likely to have Alzheimer's disease onset is also more likely to experience mortality). Second, models that generate survival curves are trained on time-to-event data, where the time at which an individual experiences an event is likely non-deterministic due to noise in the data generating process. While the first challenge has been addressed by previoused work, the second remains under-explored. 
