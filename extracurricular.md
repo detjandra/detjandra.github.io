@@ -26,5 +26,5 @@ I have also been fortunate to have the opportunity to serve the community throug
 In my free time, my hobbies include
 
 - Reading (my favorite genre is fantasy)
-- Crafting (I like to sew and have recently started knitting)
+- Crafting (I like to sew and knit)
 - Music (I can play the piano and violin)
