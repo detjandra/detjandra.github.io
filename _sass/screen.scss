@@ -187,12 +187,12 @@ header h1 {
 }
 
 header h2 {
-  background-color: #7c334f'
+  background-color: #7c334f';
+  font: bold italic 0.85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
   margin-top: -3px;
   text-align: center;
-  font-size: 1.5em;
 }
 
 section#downloads,
@@ -480,7 +480,7 @@ th {
   color: #cd596b;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
-  font-size: .85em;
+  font-size: 1.5em;
 }
 
 td {
