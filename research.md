@@ -4,11 +4,11 @@ title: "Research"
 permalink: /research/
 ---
 
-# Highlights
+# Highlights of Previous Work
 
 
 
-## Hierarchical Survival Analysis
+## 1. Hierarchical Survival Analysis
 
 In "A Hierarchical Approach to Multi-Event Survival Analysis" (AAAI, 2021), my co-authors and I approach the task of predicting how the probabiltiy of an individual experiencing multiple events changes over time. More specifically, for each event, we aim to generate a survival curve. A survival curve plots an individual's probability of survival (i.e., not experiencing the event) at various time points in the future, relative to when the prediction was made. However, the task of generating these curves holds many challenges. First, events are often dependent on one another (e.g., given the events of Alzheimer's disease onset and mortality, an individual who is more likely to have Alzheimer's disease onset is also more likely to experience mortality). Second, models that generate survival curves are trained on time-to-event data, where the time at which an individual experiences an event is likely non-deterministic due to noise in the data generating process. While the first challenge has been addressed by previoused work, the second remains under-explored. 
 
@@ -18,7 +18,7 @@ From a practical standpoint, obtaining accurate survival curves for multiple eve
 
 This work was done in collaboration with my advisor Jenna Wiens and a (then) undergraduate student I mentored, Yifei He.
 
-## Predicting Alzheimer's Disease from Electronic Health Record Data
+## 2. Predicting Alzheimer's Disease from Electronic Health Record Data
 
 In "Cohort discovery and risk stratification for Alzheimer’s disease: an electronic health record‐based approach" (AD-TRCI, 2020), my co-authors and I modeled the risk of developing Alzheimer's disease (AD) using electronic health record (EHR) data. AD is one of the leading causes of death in individuals 65 years and older, and there is currently no way to prevent, stop, or slow the progression of this disease. As a result, predicting which individuals are more likely to develop AD years before symptom onset will be crucial to advancing AD research. However, commonly used sources of longitudinal data, such as those from the Alzheimer's Disease Neuroimaging Initiative (ADNI), do not allow for long prediction horizons, as most participants have fewer than 10 years of followup data. Here, we aimed to use electronic health record data to predict AD onset 10 years in advance.
 
