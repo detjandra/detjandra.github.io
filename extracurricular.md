@@ -14,7 +14,7 @@ During both my undergradute and graduate careers, I have had the opportunity to 
 I have also been fortunate to have the opportunity to serve the community through outreach activities (listed below). I enjoy participating in a variety of activities, though I mainly focus on encouraging under-represented minoritites to participate in computing activities and advising other students.
 
 - 2021: Served as an “Onboarding Buddy” for new graduate students
-- 2021: Assisted in facilitating F.E.M.M.E.S explore (an event that encourages gender minorities to participate in computing)
+- 2021: Assisted in facilitating F.E.M.M.E.S explore (an event that encourages under-represented gender minorities to participate in computing)
 - 2020: Mentored for the “Summer Undergraduate Research Experience” at the University of Michigan
 - 2019: Volunteered at the Michigan AI Symposium
 - 2019: Volunteered at “Explore Graduate Studies” (a program aimed at recruiting under-represented minorities for graduate studies)
