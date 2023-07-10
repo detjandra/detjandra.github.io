@@ -14,7 +14,11 @@ Hello! My name is Donna. I am a PhD student studying computer science at the Uni
   - 2020: Master's of Science in computer science 
 
 # Publications 
-- [Tjandra D., He Y., Wiens J. A Hierarchical Approach to Multi-Event Survival Analysis. In Proceedings of the AAAI Conference on Artificial Intelligence 2021 May 18 (Vol. 35, No. 1, pp. 591-599](https://ojs.aaai.org/index.php/AAAI/article/view/16138)
+- [Tjandra, D. & Wiens, J. Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise. In Conference on Health, Inference, and Learning (pp. 477-497). PMLR. 2023](https://github.com/MLD3/Instance_Dependent_Label_Noise/blob/main/chil23_noisy_labels_230710.pdf)
+
+- [Tjandra D, Migrino RQ, Giordani B, Wiens J. Use of blood pressure measurements extracted from the electronic health record in predicting Alzheimer's disease: A retrospective cohort study at two medical centers. Alzheimer's & Dementia. 18(11): 2368-72. 2022](https://alz-journals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.12676)
+    
+- [Tjandra D., He Y., Wiens J. A Hierarchical Approach to Multi-Event Survival Analysis. In Proceedings of the AAAI Conference on Artificial Intelligence 2021 May 18, Vol. 35, No. 1, pp. 591-599](https://ojs.aaai.org/index.php/AAAI/article/view/16138)
 
 - [Tjandra, D., Migrino, R. Q., Giordani, B., & Wiens, J. Cohort discovery and risk stratification for Alzheimer's disease: an electronic health record‐based approach. Alzheimer's & Dementia: Translational Research & Clinical Interventions, 6(1), e12035. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293993/)
 
