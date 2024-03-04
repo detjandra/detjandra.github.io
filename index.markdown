@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Introduction
-Hello! My name is Donna. I am a PhD student studying computer science at the University of Michigan, and I am advised by Professor Jenna Wiens. My research lies at the intersection of machine learning and healthcare. Broadly, my interests cover topics such as survival analysis and noisy label learning in the context of real-world problems like predicting the onset of Alzheimer’s disease and sepsis. My CV can be found [here.](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2021.pdf)
+Hello! My name is Donna, and I am a PhD student studying computer science at the University of Michigan. I am part of the [MLD3](https://wiens-group.engin.umich.edu/) group, advised by Professor Jenna Wiens. My research lies at the intersection of machine learning and healthcare. Broadly, my interests cover topics such as survival analysis and noisy label learning in the context of real-world problems like predicting the onset of Alzheimer’s disease and sepsis. My CV can be found [here](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2021.pdf).
 
 # Education
 - 2013-2018: University of Toronto
