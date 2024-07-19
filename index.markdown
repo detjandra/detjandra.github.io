@@ -17,7 +17,7 @@ Hello! My name is Donna, and I am a PhD student studying computer science at the
 # Publications 
 - [Kamran F, Tjandra D, Heiler A, Virzi J, Singh K, King, JE, Valley TS, Wiens J. Evaluation of Sepsis Prediction Models before Onset of Treatment. NEJM AI. 2024 Feb 7:AIoa2300032.](https://ai.nejm.org/doi/pdf/10.1056/AIoa2300032?download=true)
 
-- [Irwin C, Tjandra D, Hu C, Aggarwal V, Lienau A, Giordani B, Wiens J, Migrino RQ. Predicting 5‐year dementia conversion in veterans with mild cognitive impairment. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring. 2024 Jan;16(1):e12572.] (https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12572)
+- [Irwin C, Tjandra D, Hu C, Aggarwal V, Lienau A, Giordani B, Wiens J, Migrino RQ. Predicting 5‐year dementia conversion in veterans with mild cognitive impairment. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring. 2024 Jan;16(1):e12572.](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12572)
 
 - [Tjandra D & Wiens J. Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise. In Conference on Health, Inference, and Learning (pp. 477-497). PMLR. 2023](https://github.com/MLD3/Instance_Dependent_Label_Noise/blob/main/chil23_noisy_labels_230710.pdf)
 
