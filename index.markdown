@@ -12,7 +12,8 @@ Hello! My name is Donna, and I am a PhD student studying computer science at the
 - 2013-2018: University of Toronto
   - 2018: Bachelor's of Science in molecular genetics and computer science
 - 2018-2024: University of Michigan
-  - 2020: Master's of Science in computer science 
+  - 2020: Master's of Science in computer science
+  - 2024: Doctor of Philosophy in computer science
 
 # Publications 
 - [Kamran F, Tjandra D, Heiler A, Virzi J, Singh K, King, JE, Valley TS, Wiens J. Evaluation of Sepsis Prediction Models before Onset of Treatment. NEJM AI. 2024 Feb 7:AIoa2300032.](https://ai.nejm.org/doi/pdf/10.1056/AIoa2300032?download=true)
