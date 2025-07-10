@@ -33,6 +33,8 @@ Our approach addressed this issue by learning the underlying pattern of noise us
 
 This work was done in collaboration with my advisor Jenna Wiens.
 
-# Current Research
+## 3. Survival Analysis with Multiple Noisy Labelers
 
-I am currently studying label noise in the context of survival analysis. Past work studying label noise in survival analysis considers cases when the labeled time-to-event in the dataset does not match the ground truth time-to-event that occurred in reality in the context of a single labeler. Label noise in survival analysis with multiple labelers remains understudied but is still relevant in settings such as healthcare since there are often multiple automated labeling tools for labeling a specific condition, each with their own strengths and weaknesses.
+When multiple, different labeling tools are used, we find ourselves in the setting of multiple noisy labels. Previous work studying supervised learning with multiple noisy labels focuses on classification and proposes different strategies to aggregate labels. Here, we move beyond classification and study multiple noisy labels in the context of time-to-event prediction (i.e., survival analysis). As we show, survival analysis presents additional challenges when learning from multiple noisy labels since outcomes may be censored. We formalize the problem of multiple noisy labels in survival analysis and propose a novel approach. Our approach leverages a reference set with both noisy and ground truth labels to model the noisy time- to-event distribution and their associated errors and then uses these distributions to predict the ground truth time-to-event distribution. We found that our approach outperformed adaptations of approaches from the multiple noisy label literature in classification on both synthetic data and on sepsis prediction in the MIMIC-III dataset.
+
+This work was done in collaboration with my advisor Jenna Wiens.
