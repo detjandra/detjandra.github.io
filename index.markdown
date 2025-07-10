@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Introduction
-Hello! My name is Donna, and I am a health scientist statistician at the Arizona Veterans Research and Education Foundation, where I use computational techniques, such as machine learning, to model long term outcomes in individuals with diabetes. I obtained my PhD in computer science from the University of Michigan in 2024 from the [MLD3](https://wiens-group.engin.umich.edu/) group. My dissertation specialized in machine learning, where I focused on survival analysis and noisy label learning, two settings that are broadly applicable in real-world problems. My CV can be found [here](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2024.pdf).
+Hello! My name is Donna, and I am a health scientist statistician at the Arizona Veterans Research and Education Foundation, where I use computational techniques, such as machine learning, to model long term outcomes in individuals with diabetes. I obtained my PhD in computer science from the University of Michigan in 2024 from the [MLD3](https://wiens-group.engin.umich.edu/) group. My dissertation specialized in machine learning, where I focused on survival analysis and noisy label learning, two settings that are broadly applicable in real-world problems. My CV can be found [here](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2025.pdf).
 
 # Education
 - 2013-2018: University of Toronto
