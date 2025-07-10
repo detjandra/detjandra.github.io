@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Introduction
-Hello! My name is Donna, and I am a PhD student studying computer science at the University of Michigan. I am part of the [MLD3](https://wiens-group.engin.umich.edu/) group, advised by Professor Jenna Wiens. My research lies at the intersection of machine learning and healthcare. Broadly, my interests cover topics such as survival analysis and noisy label learning in the context of real-world problems like predicting the onset of Alzheimer’s disease and sepsis. My CV can be found [here](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2024.pdf).
+Hello! My name is Donna, and I am a health scientist statistician at the Arizona Veterans Research and Education Foundation, where I use computational techniques, such as machine learning, to model long term outcomes in individuals with diabetes. I obtained my PhD in computer science from the University of Michigan in 2024 from the [MLD3](https://wiens-group.engin.umich.edu/) group. My dissertation specialized in machine learning, where I focused on survival analysis and noisy label learning, two settings that are broadly applicable in real-world problems. My CV can be found [here](https://github.com/detjandra/detjandra.github.io/blob/main/Donna_Tjandra_CV_2024.pdf).
 
 # Education
 - 2013-2018: University of Toronto
@@ -16,6 +16,12 @@ Hello! My name is Donna, and I am a PhD student studying computer science at the
   - 2024: Doctor of Philosophy in computer science
 
 # Publications 
+- [Tjandra D, Irwin C, Migrino RQ, Giordani B, Wiens J. Estimated Effects of Comorbidities on Risk of All-cause Dementia in Patients with Mild Cognitive Impairment. Sage Open Aging. 2025 Jun;11:30495334251347053.](https://journals.sagepub.com/doi/full/10.1177/30495334251347053)
+
+- [Kamran F, Tjandra D, Valley TS, Prescott HC, Shah NH, Liu VX, Horvitz E, Wiens J. Reformulating patient stratification for targeting interventions by accounting for severity of downstream outcomes resulting from disease onset: a case study in sepsis. Journal of the American Medical Informatics Association. 2025 May;32(5):905-13.](https://erichorvitz.com/reformulating_risk_stratification.pdf)
+
+- [Tjandra D, Wiens J. Survival Analysis with Multiple Noisy Labels. ICDM, December 2024](https://ieeexplore.ieee.org/abstract/document/10884144)
+
 - [Kamran F, Tjandra D, Heiler A, Virzi J, Singh K, King, JE, Valley TS, Wiens J. Evaluation of Sepsis Prediction Models before Onset of Treatment. NEJM AI. 2024 Feb 7:AIoa2300032.](https://ai.nejm.org/doi/pdf/10.1056/AIoa2300032?download=true)
 
 - [Irwin C, Tjandra D, Hu C, Aggarwal V, Lienau A, Giordani B, Wiens J, Migrino RQ. Predicting 5‐year dementia conversion in veterans with mild cognitive impairment. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring. 2024 Jan;16(1):e12572.](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12572)
